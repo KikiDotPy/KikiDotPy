@@ -6,7 +6,6 @@ I'm on [Harvard cs50](https://cs50.harvard.edu/college/2021/fall/) lessons, I've
   
 
 I love videogame, boardgames, foods and movies. Also coffee.  
-
 I love a lot coffee (occasionally I cheat on it with tea).
 
 I work at [Telus International](https://www.telusinternational.com), too. If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/KikiDotPy)! 
