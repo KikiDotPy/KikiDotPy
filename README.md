@@ -1,7 +1,7 @@
 # Hello, coders! 👋🏻
 
 I'm learning and practicing to be a Sofware Dev one day.
-I'm on [Harvard cs50](https://cs50.harvard.edu/college/2021/fall/) lessons, I've finished to dive down to C language and I'm starting Python 3. I'm excited to try out new projects and ideas! I also have some non-coding stuff that I update on occasion, for example some writings or tutorial.  
+I'm on [Harvard cs50](https://cs50.harvard.edu/college/2021/fall/) lessons, I've finished to dive down to **C language** and I'm starting **Python 3**. I'm excited to try out new projects and ideas! I also have some non-coding stuff that I update on occasion, for example some writings or tutorial.  
   
   
 
