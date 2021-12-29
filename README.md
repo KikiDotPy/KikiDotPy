@@ -8,7 +8,7 @@ I'm on [Harvard cs50](https://cs50.harvard.edu/college/2021/fall/) lectures, I'v
 I love videogame, boardgames, foods and movies. Also coffee.  
 I love a lot coffee (occasionally I cheat on it with tea).
 
-I work at [Telus International](https://www.telusinternational.com), too. If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/KikiDotPy)! 
+If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/KikiDotPy)! 
 Feel free to ask anything or just say hello
 
 Pronouns: she/her
