@@ -2,7 +2,7 @@
 
 I'm learning and practicing to be a Sofware Developer Engineer.
 
-I'm on [Harvard cs50](https://cs50.harvard.edu/college/2021/fall/) lectures, I've finished with **C language**, **Python**, **SQL**, **HTML**, **CSS** and I'm diving down **JavaScript**. At the same time I'm following [Open Source Society University's](https://github.com/ossu/computer-science) computer science curriculum while building and design some personal projects and contributing to Open Source!
+I'm on [Harvard cs50](https://cs50.harvard.edu/college/2021/fall/) lectures, I've learned **C language**, **Python**, **SQL**, **HTML**, **CSS** and I'm diving down **JavaScript**. At the same time I'm following [Open Source Society University's](https://github.com/ossu/computer-science) computer science curriculum while building and design some personal projects and contributing to Open Source!
    
 
 I love videogame, boardgames, foods and movies. Also coffee.  
