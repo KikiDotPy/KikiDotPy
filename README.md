@@ -9,7 +9,6 @@ I love a lot coffee (occasionally I cheat on it with cup of delicious tea).
 
 
 If you would like to discuss these things, you can join me on [Twitter](https://twitter.com/KikiDotPy)! 
-
 Feel free to ask anything or just say hello, I love being in the tech community and helping whenever I can.
 
 Pronouns: she/her
