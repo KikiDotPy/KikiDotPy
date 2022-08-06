@@ -1,6 +1,6 @@
 # Hello, coders! 👋🏻
 
-I'm a formal chef on my learning journey to be a web software developer.
+I'm Kiki, once a formal chef, now a Developer at Thoughtworks.
 
 I've finished [Harvard cs50](https://cs50.harvard.edu/college/2021/fall/), achieving the comprehension of **C language**, **Python**, **SQL**, **HTML**, **CSS**, **JavaScript**, **Flask**, and **cybersecurity concepts**. I'm following [Open Source Society University's](https://github.com/ossu/computer-science) computer science curriculum and a Full-Stack web developer Bootcamp to improve my back-end and frameworks knowledge while building and designing cool projects and contributing to Open Source!
 
